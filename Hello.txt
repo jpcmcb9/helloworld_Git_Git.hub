@@ -1,0 +1,5 @@
+Este é o novo ficheiro criado no meu projeto.
+
+Vou chama-lo Ficheiro 1
+
+Imaginem que estou a usar a implementacao de arrays
